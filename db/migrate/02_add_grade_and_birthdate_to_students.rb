@@ -1,0 +1,1 @@
+def AddGradeAndBirthdate < ActiveRecord::Migration[]
